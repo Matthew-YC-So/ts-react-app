@@ -22,7 +22,7 @@ const validate = (values: any) => {
 }
 
 
-const MyForm = (props:any) => {
+const ProfileForm = (props:any) => {
   
   const profile:Profile = props.profile;
   
@@ -96,4 +96,4 @@ const MyForm = (props:any) => {
 
 
 
-export default MyForm;
+export default ProfileForm;

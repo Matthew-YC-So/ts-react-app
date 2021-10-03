@@ -1,14 +1,14 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import MyComp from './MyComp';
+import MembersComp from './MembersComp';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
       </header>
-      <MyComp></MyComp>
+      <MembersComp></MembersComp>
     </div>
   );
 }
